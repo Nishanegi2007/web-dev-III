@@ -1,0 +1,32 @@
+{
+<<<<<<< HEAD
+  "name": "shelf-simple-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.21"
+=======
+  "name": "shelf-simple-backend",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Express CRUD API for a product catalog",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.22.2",
+    "nodemon": "^3.1.14"
+>>>>>>> 9b85aa3c837765acaee63f5d703e4f00f78eecb9
+  }
+}
