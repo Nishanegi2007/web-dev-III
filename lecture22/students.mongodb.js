@@ -54,3 +54,5 @@ db.students2.find({
         {semester:3},{course:"Btech"}
     ]
 }).sort({age:-1}).skip(0).limit(2);
+
+
