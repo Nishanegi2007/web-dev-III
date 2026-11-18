@@ -1,0 +1,26 @@
+{
+  "name": "web-dev-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishanegi2007/web-dev-III.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishanegi2007/web-dev-III/issues"
+  },
+  "homepage": "https://github.com/Nishanegi2007/web-dev-III#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "nodemon": "^3.1.14"
+  }
+}
